@@ -20,7 +20,7 @@ You can use the website to generate badges: https://shields.io/
 - I’m currently learning : 
   - Deep Learning for Coders by [fast.ai](http://course.fast.ai)
   - Tensorflow in Practice [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
-  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
+  - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-o n-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
 - 2020/2021 Goals: Contribute more to Open Source projects
 
@@ -45,7 +45,7 @@ You can use this api: https://github.com/anuraghazra/github-readme-stats
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/json/json-ar21.svg"></code>
   <br />
-  <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="10%" src="https://www.vectorlogo.zone/logos/docker/docker-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"></code>
   <code><img width="10%" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg"></code>
   <br />
