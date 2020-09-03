@@ -22,6 +22,7 @@ You can use the website to generate badges: https://shields.io/
   - Tensorflow in Practice [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
+- Working towards my AWS Solutions Architect Associate certification
 - 2020/2021 Goals: Contribute more to Open Source projects
 
 <br />
