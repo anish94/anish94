@@ -11,7 +11,7 @@ You can use the website to generate badges: https://shields.io/
 [![Kaggle](https://img.shields.io/badge/-Kaggle-20beff?style=flat&logo=Kaggle&logoColor=white)](https://kaggle.com/pluto6)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white)](https://twitter.com/AnishGu00469566)
 &nbsp;
-## I'm a Machine Learning/Deep Learning Enthusiast!
+## I'm a Data Science/Machine Learning  Enthusiast!
 
 - I’m currently working on building my knowledge in the field of Data Science!
   - Learning Computer Vision, Natural Language Processing
@@ -22,8 +22,9 @@ You can use the website to generate badges: https://shields.io/
   - Tensorflow in Practice [Specialization](https://www.coursera.org/specializations/tensorflow-in-practice)
   - Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow [Book](https://www.oreilly.com/library/view/hands-on-machine-learning/9781492032632/)
 - I’m looking to collaborate with other content creators
-- Working towards my AWS Solutions Architect Associate certification
-- 2020/2021 Goals: Contribute more to Open Source projects
+- Recently, I have cleared the AWS Certified Machine Learning Specialty Certification
+- Currently, working towards AWS Solutions Architect Associate certification and Azure Data Scientist Associate Certification
+- 2021 Goals: Try to contribute to Open Source projects
 
 <br />
 
